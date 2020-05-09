@@ -1,5 +1,5 @@
-## Pepus Laravel
-# Default admin
+# Pepus Laravel
+## Default admin
 Email : admin@perpus.test
 
 password : 12345678
