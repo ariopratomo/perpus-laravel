@@ -1,7 +1,12 @@
 ## Pepus Laravel
 
-jangan lupa copy file .env
+jangan lupa copy file .env .
+
 untuk data dummy gunakan perintah " \$ php artisan migrate --seed"
+## Vendor
+- yajra (https://yajrabox.com/docs/laravel-datatables/master).
+- spatie (https://github.com/spatie/laravel-permission).
+## 
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
