@@ -1,8 +1,15 @@
 ## Pepus Laravel
+# Default admin
+Email : admin@perpus.test
 
-jangan lupa copy file .env .
+password : 12345678
+
+
+##  
+
 
 untuk data dummy gunakan perintah " \$ php artisan migrate --seed"
+
 ## Vendor
 - yajra (https://yajrabox.com/docs/laravel-datatables/master).
 - spatie (https://github.com/spatie/laravel-permission).
